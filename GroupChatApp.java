@@ -1,6 +1,7 @@
 import java.net.*; 
 import java.io.*; 
 import java.util.*; 
+import java.util.Scanner;
 public class GroupChat 
 { 
 	private static final String TERMINATE = "Exit"; 
